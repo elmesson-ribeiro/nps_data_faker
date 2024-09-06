@@ -1,0 +1,19 @@
+
+# 1- Instale o VScode
+https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-user
+
+# 2- Intale o Python 
+
+# 3- https://www.python.org/ftp/python/3.12.5/python-3.12.5-amd64.exe
+
+
+Ou https://winget.run/pkg/Microsoft/VisualStudio.2022.Community.Preview
+Prompt cmd power shell
+
+winget install -e --id Python.Python.3.11;winget install -e --id Microsoft.VisualStudio.2022.Community.Preview
+
+# 1- Copie o codigo winget para instalar as aplicações.
+# 2- Abra o arquivo NPSv1.py
+# 3- Canto Superior á direita do Visual Studio para starte no código para gerar o arquivo. 
+# 4- O arquivo gerado no local C:\Users\Seuusuário\nps_fake.xlsx 
+
