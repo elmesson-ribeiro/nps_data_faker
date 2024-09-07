@@ -1,0 +1,1 @@
+winget install -e --id Python.Python.3.11;winget install -e --id Microsoft.VisualStudio.2022.Community.Preview
